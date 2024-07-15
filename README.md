@@ -2,12 +2,12 @@
 
 # Introduction
 Road conditions play a critical role in ensuring the safety of drivers. By leveraging deep learning techniques, this project aims to classify road conditions accurately and in real-time. The approach uses Convolutional Neural Networks (CNN) to process images of roads and categorize them into three distinct classes:
-# •	Severely Risky
-# •	Mildly Risky
-# •	Normal
+## •	Severely Risky
+## •	Mildly Risky
+## •	Normal
 
 # Features
-•	High Accuracy: Achieved an accuracy of 95.5% in detecting problematic road conditions. 🏆
+** •	High Accuracy: ** Achieved an accuracy of 95.5% in detecting problematic road conditions. 🏆
 •	Real-time Data Collection: Implemented a mobile application that enables real-time crowdsourced data collection. 📱
 •	Community Sharing: Facilitates sharing of road condition information among users. 🌍
 •	Model Updates: Utilizes crowdsourced data to update the trained model, enhancing classification accuracy over time. 🔄
