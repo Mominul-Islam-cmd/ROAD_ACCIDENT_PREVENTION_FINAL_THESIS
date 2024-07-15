@@ -8,8 +8,11 @@ Road conditions play a critical role in ensuring the safety of drivers. By lever
 
 ## Features
 **•	High Accuracy:** Achieved an accuracy of 95.5% in detecting problematic road conditions. 🏆
+
 **•	Real-time Data Collection:** Implemented a mobile application that enables real-time crowdsourced data collection. 📱
+
 **•	Community Sharing:** Facilitates sharing of road condition information among users. 🌍
+
 **•	Model Updates:** Utilizes crowdsourced data to update the trained model, enhancing classification accuracy over time. 🔄
 
 ## Dataset
@@ -24,8 +27,11 @@ The model is built using Convolutional Neural Networks (CNN), a deep learning ar
 
 ## Mobile Application
 The mobile application is a crucial component of the system, enabling users to:
+
 •	Collect and upload road condition images in real-time. 📸
+
 •	View and share road condition updates. 📡
+
 •	Receive notifications about hazardous road conditions. 🚨
 
 
